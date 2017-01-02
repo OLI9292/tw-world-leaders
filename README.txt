@@ -1,0 +1,1 @@
+Collecting data concerning world leaders from the Twitter Streaming API.
