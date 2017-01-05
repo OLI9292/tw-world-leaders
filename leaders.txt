@@ -248,6 +248,7 @@ Portugal, Prime Minister, António Costa
 Qatar, Emir, Sheikh Tamim bin Hamad Al Thani
 Qatar, Prime Minister, Sheikh Abdullah bin Nasser bin Khalifa Al Thani
 Romania, President, Klaus Iohannis
+Romania, Prime Minister, Sorin Grindeanu
 Russia, President, Vladimir Putin
 Russia, Prime Minister, Dmitry Medvedev
 Rwanda, President, Paul Kagame
