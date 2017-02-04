@@ -9,13 +9,16 @@ setup(
     license='MIT',
     long_description=open('README.txt').read(),
     install_requires=[
-        'tweepy',
+        'autoenv',
+        'bs4',
+        'flask',
         'python-dotenv',
-        'bs4'
+        'tweepy',
     ],
     entry_points='''
         [console_scripts]
-        stream=app.stream:main
-        scrape=app.state_leaders_spider:main
+        server=app.server:main
+        spider=app.spider:main
+        stream=app.stream:stream
     ''',
 )

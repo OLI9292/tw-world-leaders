@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>World Leaders</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stylesheets/index.css') }}">
+</head>
+<body>
+<h1>World Leaders</h1>
+<script type="text/javascript">
+  var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+</script>
+<script type="text/javascript" src="{{ url_for('static', filename='javascripts/d3.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='javascripts/world.js') }}"></script>
+</body>
+</html>
