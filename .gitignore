@@ -3,3 +3,4 @@ dist/**
 ipynb-checkpoints/**
 instance/**
 worldLeaders.egg-info/**
+.DS_STORE
