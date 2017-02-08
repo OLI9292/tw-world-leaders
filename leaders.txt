@@ -13,6 +13,7 @@ Armenia, President, Serzh Sargsyan
 Armenia, Prime Minister, Karen Karapetyan
 Australia, Queen, Elizabeth II
 Australia, Prime Minister, Malcolm Turnbull
+Austria, Federal President, Alexander Van der Bellen
 Austria, Federal Chancellor, Christian Kern
 Azerbaijan, President, Ilham Aliyev
 Azerbaijan, Prime Minister, Artur Rasizade
@@ -39,7 +40,8 @@ Presidency, Chairman of the Council of Ministers, Denis Zvizdić
 Botswana, President, Ian Khama
 Brazil, President, Michel Temer
 Brunei, Sultan and Prime Minister, Hassanal Bolkiah
-Bulgaria, Prime Minister, Boyko Borissov
+Bulgaria, President, Rumen Radev
+Bulgaria, Acting Prime Minister, Ognyan Gerdzhikov
 Burkina Faso, President, Roch Marc Christian Kaboré
 Burkina Faso, Prime Minister, Paul Kaba Thieba
 Burundi, President, Pierre Nkurunziza
@@ -101,14 +103,12 @@ France, President, François Hollande
 France, Prime Minister, Bernard Cazeneuve
 Gabon, President, Ali Bongo Ondimba
 Gabon, Prime Minister, Emmanuel Issoze-Ngondet
-Gambia, The, President, Yahya Jammeh
-Gambia, The, President-elect, Adama Barrow
+Gambia, The, President, Adama Barrow
 Georgia, President, Giorgi Margvelashvili
 Georgia, Prime Minister, Giorgi Kvirikashvili
 Germany, President, Joachim Gauck
 Germany, Chancellor, Angela Merkel
-Ghana, President, John Dramani Mahama
-Ghana, President-elect, Nana Akufo-Addo
+Ghana, President, Nana Akufo-Addo
 Greece, President, Prokopis Pavlopoulos
 Greece, Prime Minister, Alexis Tsipras
 Grenada, Queen, Elizabeth II
@@ -127,8 +127,7 @@ Honduras, President, Juan Orlando Hernández
 Hungary, President, János Áder
 Hungary, Prime Minister, Viktor Orbán
 Iceland, President, Guðni Th. Jóhannesson
-Iceland, Prime Minister, Sigurður Ingi Jóhannsson
-Iceland, Prime minister-designate, Bjarni Benediktsson
+Iceland, Prime Minister, Bjarni Benediktsson
 India, President, Pranab Mukherjee
 India, Prime Minister, Narendra Modi
 Indonesia, President, Joko Widodo
@@ -143,7 +142,7 @@ Israel, Prime Minister, Benjamin Netanyahu
 Italy, President, Sergio Mattarella
 Italy, Prime Minister, Paolo Gentiloni
 Ivory Coast, President, Alassane Ouattara
-Ivory Coast, Prime Minister, Daniel Kablan Duncan
+Ivory Coast, Prime Minister, Amadou Gon Coulibaly
 Jamaica, Queen, Elizabeth II
 Jamaica, Prime Minister, Andrew Holness
 Japan, Emperor, Akihito
@@ -178,7 +177,6 @@ Luxembourg, Grand Duke, Henri
 Luxembourg, Prime Minister, Xavier Bettel
 Macedonia, President, Gjorge Ivanov
 Macedonia, Interim Prime Minister, Emil Dimitriev
-Macedonia, Prime minister-designate, Nikola Gruevski
 Madagascar, President, Hery Rajaonarimampianina
 Madagascar, Prime Minister, Olivier Mahafaly Solonandrasana
 Malawi, President, Peter Mutharika
@@ -193,7 +191,7 @@ Marshall Islands, President, Hilda Heine
 Mauritania, President, Mohamed Ould Abdel Aziz
 Mauritania, Prime Minister, Yahya Ould Hademine
 Mauritius, President, Ameenah Gurib
-Mauritius, Prime Minister, Sir Anerood Jugnauth
+Mauritius, Prime Minister, Pravind Jugnauth
 Mexico, President, Enrique Peña Nieto
 Micronesia, President, Peter M. Christian
 Moldova, President, Igor Dodon
@@ -325,15 +323,14 @@ United Arab Emirates, President, Sheikh Khalifa bin Zayed Al Nahyan
 United Arab Emirates, Prime Minister, Sheikh Mohammed bin Rashid Al Maktoum
 United Kingdom, Queen, Elizabeth II
 United Kingdom, Prime Minister, Theresa May
-United States, President, Barack Obama
-United States, President-elect, Donald Trump
+United States, President, Donald Trump
 Uruguay, President, Tabaré Vázquez
 Uzbekistan, President, Shavkat Mirziyoyev
 Uzbekistan, Prime Minister, Abdulla Aripov
 Vanuatu, President, Baldwin Lonsdale
 Vanuatu, Prime Minister, Charlot Salwai
 Vatican City, Sovereign, Pope Francis
-Vatican City, President of the Governorate, Cardinal Giuseppe Bertello
+Vatican City, Secretary of State, Cardinal Pietro Parolin
 Venezuela, President, Nicolás Maduro
 Vietnam, General Secretary of the Communist Party, Nguyễn Phú Trọng
 Vietnam, President, Trần Đại Quang

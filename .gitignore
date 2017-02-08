@@ -1,4 +1,6 @@
-worldLeaders.egg-info
 build/**
 dist/**
-fetched_tweets.txt
+ipynb-checkpoints/**
+instance/**
+worldLeaders.egg-info/**
+.DS_STORE
